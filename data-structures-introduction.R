@@ -9,6 +9,7 @@
 # License: Creative Commons Attribution-ShareAlike 3.0 Unported License
 #----------------------------------------------------------------------------------------------
 
+
 # numeric vector of 16 high school GPA scores
 gpa.scores <- c(3.67, 3.95, 2.89, 4.00, 3.83, 3.18, 3.72, 2.75,
                 3.01, 3.29, 4.00, 2.15, 2.89, 3.80, 3.55, 3.99)
